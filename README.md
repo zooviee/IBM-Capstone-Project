@@ -48,7 +48,7 @@ In this repository there are 6 notebooks and 1 pdf presentation report. The anal
 * Data wrangling.ipynb
 
 **2. Exploratory data analysis (EDA):**
-*  EDA with Visualizations.ipynb
+*  EDA with Python.ipynb
 
 **3. Cognos Analytics Dashboard:**
 * Dashboard building on IBM cloud
