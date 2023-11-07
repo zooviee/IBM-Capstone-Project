@@ -27,7 +27,7 @@ To accomplish this we will gather data about in-demand technologies from various
 
 
 ## Summary of all results: 
-The insights we found with this analysis is that 
+The insights we found with this analysis include the following: 
 - Programming languages like Typescript is gaining significant interest and Python continues to grow as well
 - Databases like Redis, ElasticSearch, Postgresql, MongoDB are gaining more interest
 - Platforms like Slack and Windows are losing significant interest from the tech community
@@ -59,6 +59,5 @@ In this repository there are 6 notebooks and 1 pdf presentation report. The anal
 ## Conclusion:
 * Carve out budget in order to hire additional staff with skills needed to fill any gaps.
 * Set aside a budget or put a program in place to upskill those already employed.
-* Make adjustmentsin staff for those skills no longer in demand
+* Make adjustments in staff for those skills no longer in demand.
 
-- 
